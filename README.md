@@ -1,6 +1,6 @@
 # LifeLink
 ## Your all-in-one gamified healthcare app.
-### By The Bun Samosas:
+#### By The Bun Samosas:
 #### Noel Jose, Pragathi Panchangam, Manit Bohra and Lakshya Pachisia
 
 Ideated for AppGenesis 2024 by [Appex](https://github.com/Appex-Pesu)
